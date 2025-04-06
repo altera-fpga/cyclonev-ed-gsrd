@@ -1,0 +1,11 @@
+/db/
+/incremental_db/
+/output_files/
+/stamp/
+/soc_system/
+
+soc_system.qpf
+soc_system.qsf
+soc_system.qsys
+soc_system.sopcinfo
+ghrd_top.v
